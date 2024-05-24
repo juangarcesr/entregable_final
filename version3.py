@@ -1,3 +1,3 @@
 #Juan Andrés Sañudo
-#Juan Diego 
-#Juan José Garcés 
+#Juan Diego Hernández Rodriguez
+#Juan José Garcés Rojas
